@@ -16,3 +16,10 @@ After importing the data to BigQuery, the first step was to inspect each attribu
 
 5.Analyse Phase
 In this phase, queries were created to uncover trends that were highlighted in the data visualisations.
+
+To view the visualisations please Click
+
+https://public.tableau.com/app/profile/muhammed.ali.y.cesoylu/viz/BikeShareViz_16526204837810/Dashboard1?publish=yes
+
+for preview
+![Bike Share](https://user-images.githubusercontent.com/65825450/168474812-233bc71d-b3a5-47bf-ab24-ee97701a1694.png)
